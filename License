@@ -1,0 +1,49 @@
+CERN OPEN HARDWARE LICENCE v2 – WEAKLY RECIPROCAL (CERN‑OHL‑W‑2.0)
+
+Version 2.0, 2020
+
+Copyright (c) [2026] [Tashin Ahmed]
+
+This work (the "Design") is licensed under the CERN Open Hardware Licence Version 2 – Weakly Reciprocal (CERN‑OHL‑W‑2.0).
+
+1. Definitions
+
+In this Licence:
+
+"Documentation" means this licence text and any associated explanatory material.
+
+"Design" means the schematic, diagrams, and associated materials you are releasing under this licence.
+
+"Recipient" means any person who receives a copy of the Design.
+
+"Contributor" means the copyright owner who has released the Design under this Licence.
+
+2. Scope
+
+You are free to:
+
+- Copy, modify, distribute, and make Derivative Designs based on the Design.
+
+You must:
+
+- Retain this licence notice on all copies or Derivative Designs.
+- Document your changes clearly in any Derivative Designs.
+- Release Derivative Designs under the same licence (CERN‑OHL‑W‑2.0).
+
+3. Obligations
+
+- Attribution: You must credit the original Contributor(s) in any Derivative Design or distribution.
+- Modifications: All modifications must be documented, including dates and authorship.
+- Distribution: Any distributed Derivative Designs must remain under CERN‑OHL‑W‑2.0.
+
+4. Disclaimer
+
+The Design is provided “as is”. The Contributor provides no warranty of any kind, expressed or implied, including merchantability, fitness for a particular purpose, or non-infringement.
+
+5. Acceptance
+
+By copying, modifying, or distributing the Design, you agree to be bound by the terms of this Licence.
+
+---
+
+For the full official text and additional guidance, see: https://ohwr.org/project/cernohl/wikis/home
